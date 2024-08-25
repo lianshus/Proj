@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+img {
+    margin-right: 10px;
+}
+
+video {
+    width:98%;
+    height:85vh;
+}
